@@ -69,7 +69,7 @@
                             <!--Esse botão vai aparecer para todos os usuários!-->
                             <form class="form-inline">
                                 <a href="logout.php" class="btn btn-danger text-white ml-3" type="button" data-toggle="tooltip" data-placement="bottom" title="Sair do sistema">
-                                <img class="mr-2" src="img/sair.png" alt="imagem de logout" width="25">
+                                <img class="mr-2" src="assets/img/sair.png" alt="imagem de logout" width="25">
                                     Sair
                                 </a>
                             </form>
@@ -110,7 +110,7 @@
                                         <h5 class="card-title">Adicionar Produtos</h5>
                                         <p class="card-text">Opção para adicionar produtos no estoque</p>
                                         <a href="adicionar_produto.php" class="btn btn-primary">
-                                        <img class="mr-2" src="img/cadastro.png" alt="imagem de cadastro" width="25">
+                                        <img class="mr-2" src="assets/img/cadastro.png" alt="imagem de cadastro" width="25">
                                         Cadastrar Produtos
                                         </a>
                                     </div>
@@ -129,7 +129,7 @@
                                     <h5 class="card-title">Lista de Produtos</h5>
                                     <p class="card-text">Visualizar, editar e excluir os produtos</p>
                                     <a href="listar_produtos.php" class="btn btn-primary">
-                                    <img class="mr-2" src="img/lista.png" alt="imagem de lista" width="25">
+                                    <img class="mr-2" src="assets/img/lista.png" alt="imagem de lista" width="25">
                                     Produtos
                                     </a>
                                 </div>

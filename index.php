@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
     <!--Fonte padrão-->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
 
     <!--Fonte Awesome-->
-    <link rel="stylesheet" href="fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/all.min.css">
 
     <title>Tela de Login</title>
 
@@ -38,7 +38,7 @@
     <div class="container shadow p-3 bg-white rounded border">
 
       <div class="d-flex justify-content-center mb-4">
-        <img src="img/cadeado.png" alt="imagem de cadeado" width="125px" height="125px">
+        <img src="assets/img/cadeado.png" alt="imagem de cadeado" width="125px" height="125px">
       </div>
 
       <form action="index1.php" method="POST">
@@ -68,5 +68,6 @@
     <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
     <script src="js/jQuery v3.4.1"></script>
     <script src="js/bootstrap.bundle.min.js" ></script>
+    <script src="assets/js/all.min.js"></script>
   </body>
 </html>

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
     <!--Fonte padrão-->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
@@ -96,7 +96,7 @@
                 ?>
                   <div class="d-flex align-items-center" style="height: 160px;">
                     <a href="editar_produto.php?id=<?php echo $id_estoque?>" class="btn btn-warning btn-sm text-white" role="button">
-                      <img src="img/editar.png" alt="imagem de editar" width="25">
+                      <img src="assets/img/editar.png" alt="imagem de editar" width="25">
                       Editar
                     </a>
                   <?php } 
@@ -106,7 +106,7 @@
                   ?>
 
                   <a href="deletar_produto.php?id=<?php echo $id_estoque?>" class="btn btn-danger btn-sm text-white ml-2" role="button">
-                    <img src="img/lixo.png" alt="imagem de lexeira" width="20" height="23">
+                    <img src="assets/img/lixo.png" alt="imagem de lexeira" width="20" height="23">
                     Remover
                   </a>
                 </div>
@@ -120,7 +120,7 @@
 
         <div class="d-flex justify-content-end">
           <a href="menu.php" class="btn btn-primary mt-2" id="button">
-          <img src="img/voltar.png" alt="imagem de voltar" width="25">
+          <img src="assets/img/voltar.png" alt="imagem de voltar" width="25">
             Voltar
           </a>
         </div><!--d-flex justify-content-end-->
